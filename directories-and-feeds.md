@@ -9,6 +9,7 @@ This particular section doesn't strive to be a comprehensive list of indiviudial
 The Pudding transforms complex data into captivating visual essays that showcase the true potential of web-based data visualization. Their projects span from [AI-powered music criticism](https://pudding.cool/2021/10/judge-my-music/) to [3D population landscapes](https://pudding.cool/2018/10/city_3d/), demonstrating how modern web development can breathe life into data. For a masterclass in interactive storytelling, see their [Hamilton visualization](https://pudding.cool/2017/03/hamilton/) by [Shirley Wu](https://shirleywu.studio), where Broadway meets data art.
 
 ### [FiveThirtyEight](https://fivethirtyeight.com)
+![FiveThirtyEight screenshot](images/captures/538.png)
 Founded by [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver), FiveThirtyEight sets the gold standard for data journalism in the web era. Their visualizations elegantly handle complex datasets, from their signature [election forecasts](https://projects.fivethirtyeight.com/polls/) to [NBA player projections](https://projects.fivethirtyeight.com/2023-nba-player-projections/). Even seemingly simple topics like [ranking Halloween candy](https://projects.fivethirtyeight.com/candy-ranking/) become engaging data stories, demonstrating how web-based visualization can transform any dataset into a compelling narrative.
 
 ### [The Upshot](https://www.nytimes.com/international/section/upshot)
