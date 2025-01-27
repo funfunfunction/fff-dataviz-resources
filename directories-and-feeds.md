@@ -21,7 +21,7 @@ The New York Times' data journalism wing represents a masterclass in making comp
 Reuters Graphics exemplifies how data visualization can clarify global events and complex systems. Their work, like [Drowning in Plastic](https://www.reuters.com/graphics/ENVIRONMENT-PLASTIC/0100B275155/) and the [Tokyo Olympics coverage](https://www.reuters.com/graphics/OLYMPICS-2020/EXPLAINER/gjnvwnlwgpw/), demonstrates the power of web-based visualization to bridge the gap between abstract data and human understanding. Each project serves as a case study in transforming dense information into intuitive, explorable interfaces that reveal rather than overwhelm.
 
 ### [FlowingData](https://flowingdata.com)
-![FlowingData screenshot displaying data visualisation of active wildfires in california](images/captures/reuters-graphics.png)
+![FlowingData screenshot displaying data visualisation of active wildfires in california](images/captures/flowingdata.png)
 [Nathan Yau](https://en.wikipedia.org/wiki/Nathan_Yau)'s FlowingData stands out as both a learning platform and a source of inspiration for data visualization. Through projects like the [evolution of love songs](https://flowingdata.com/2024/11/13/evolution-of-the-love-song/) and [workforce participation trends](https://flowingdata.com/2014/12/16/increasing-rates-of-men-who-dont-work/), Yau demonstrates how to transform raw data into meaningful narratives. The site serves as a bridge between statistical thinking and visual design, making it an invaluable resource for web developers venturing into data visualization.
 
 ### [Financial Times: Visual and Data Journalism](https://www.ft.com/visual-and-data-journalism)
