@@ -29,9 +29,11 @@ Reuters Graphics exemplifies how data visualization can clarify global events an
 The Financial Times' visual journalism sets the standard for data design in financial media, distinguished by their signature use of clean typography and thoughtful color systems. Their projects, from the [Ukraine War Tracker](https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5) to the [Global Inflation Tracker](https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2), demonstrate how complex financial and geopolitical data can be made explorable without oversimplification. Their [COVID-19 Dashboard](https://ig.ft.com/coronavirus-chart/) became particularly notable for showing how real-time data visualization can serve a critical public need while maintaining visual sophistication.
 
 ### [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
+![Information is Beautiful Awards screen capture](images/captures/information-is-beautiful.png)
 A global stage for data visualization excellence, these awards have evolved into a living archive of what's possible when data meets design. Since 2012, they've showcased works that push the boundaries of visual storytelling, from newsroom interactives to academic research visualizations. Their [2023 winners](https://www.informationisbeautifulawards.com/news/636-information-is-beautiful-awards-2023-the-winners) exemplify how web technology can transform complex datasets into compelling experiences that inform, engage, and inspire.
 
 ### [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+![reddit data is beautiful](images/captures/r-dataisbeautiful.png)
 With over 20 million members, this subreddit functions as a living laboratory of data visualization. Unlike curated platforms, r/dataisbeautiful offers a window into the experimental edge of the field - where creators test new approaches, spark discussions about visualization ethics, and occasionally stumble upon entirely new ways of seeing data. For web developers, it's particularly valuable as a space to observe how different technical approaches resonate with a general audience, providing real-time feedback on what makes data visualization truly accessible and engaging.
 
 ### [Domestic Data Streamers](https://www.domesticstreamers.com)
